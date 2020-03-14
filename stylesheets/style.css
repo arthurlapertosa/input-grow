@@ -128,5 +128,9 @@ select.form-control:not([size]):not([multiple]) {
   margin: 50px;
   padding: 30px;
   border-radius: 5%;
-  background-color: aqua;  
+  background-color: white;  
+}
+
+body{
+  background-color: aqua;
 }
